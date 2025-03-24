@@ -1,5 +1,5 @@
 # mycms
--Pequeño cms para pequeños negocios y emprendimientos.
+-Pequeño cms para PYMES.
 -Este proyecto esta en desarrollo.
 -Tendra manejo de versiones lo que significa que recibira actualizaciones.
 -Este proyecto aun esta aun esta inservible, aun asi estoy abierto a recibir puntos de vistas y correcciones.
